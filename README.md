@@ -1,2 +1,1 @@
 # slqi.github.io
-site
